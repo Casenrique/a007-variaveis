@@ -4,6 +4,7 @@
 // console.log(resposta1)
 // console.log(resposta2)
 // console.log(resposta3)
+// imprimir todas as perguntas e respostas
 
 const pergunta1 = "Você acordou cedo hoje?"
 const resposta1 = prompt(pergunta1)
