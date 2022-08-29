@@ -1,5 +1,5 @@
-// let nome = null
-// let idade = null
+let nome
+let idade
 // console.log(nome, typeof nome)
 // console.log(idade, typeof idade)
 
@@ -7,8 +7,8 @@
 // mas sim deixado deliberadamente o valor como "null", 
 //as variáveis foram reconhecidas apenas como objetos que podem assumir valor posteriomente. 
 
-let nome = prompt("Qual é o seu nome?")
-let idade = Number(prompt("Qual é a sua idade?"))
+nome = prompt("Qual é o seu nome?")
+idade = Number(prompt("Qual é a sua idade?"))
 
 console.log(nome, typeof nome)
 console.log(idade, typeof idade)
